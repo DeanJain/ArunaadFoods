@@ -43,8 +43,8 @@ disqusShortname = ""
   weight = 2
   
   [[menu.main]]
-  name = "FAQ"
-  URL = "faq"
+  name = "About"
+  URL = "about"
   weight = 3
   
   [[menu.main]]
@@ -64,8 +64,8 @@ disqusShortname = ""
   weight = 2
   
   [[menu.footer]]
-  name = "FAQ"
-  URL = "faq"
+  name = "About"
+  URL = "about"
   weight = 3
   
   [[menu.footer]]
