@@ -39,7 +39,7 @@ cta:
 
 ######################## raw material #######################
 material:
-  enable : true
+  enable : false
   title : "Ingredients Of Our Products"
   subtitle : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
           dol."
@@ -84,15 +84,14 @@ advantage:
 video:
   enable : true
   title : "How To Order This Product?"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et."
+  content : "Please email us or fill the contact form, or even feel free to cal us at our phone number"
   videoThumb : "images/video-thumb.jpg"
   videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
 
 ######################## Products #############################
 products:
-  enable : true
+  enable : false
   title : "Products List"
   # product item comes from "content/products"
 
@@ -106,26 +105,26 @@ testimonial:
     - name : "Dean Jain"
       image : "images/clients/client-1.jpg" # size 100px*100px
       designation : "Tech Partner"
-      content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
+      content : "Awesome papad, love it, cant live life without it, start exporting asap..."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
-    - name : "Riya Ventila"
-      image : "images/clients/client-2.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
+    - name : "Ruchi Kawdiya"
+      image : "images/clients/client-111.jpg" # size 100px*100px
+      designation : "Interior Designer"
+      content : "yummmm snacksss"
       rating : "three" # rating star, one to five
       
     # testimonial item loop
-    - name : "Dean Jain"
-      image : "images/clients/client-3.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
+    - name : "Meera Kawdiya"
+      image : "images/clients/client-344.jpg" # size 100px*100px
+      designation : "Principal Holy Public School"
+      content : "Twinkle twinkle little star, how much i love Subandhu papad :) "
       rating : "five" # rating star, one to five
       
     # testimonial item loop
-    - name : "Riya Ventila"
-      image : "images/clients/client-2.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
+    - name : "Ravi Bauji"
+      image : "images/clients/client-552.jpg" # size 100px*100px
+      designation : "CEO, Meera Infra"
+      content : "oyee chak de fatteee "
       rating : "four" # rating star, one to five

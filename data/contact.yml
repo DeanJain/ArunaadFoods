@@ -7,7 +7,7 @@ contact:
     content : "360 Lokmanya Nagar, Indore (M.P.)"
     # other information comes from "config.toml"
 
-  # opennig hour
+  # opening hour
   opennigHour:
     title : "Opening Hours"
     dayTimeList:
