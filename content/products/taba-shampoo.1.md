@@ -1,10 +1,10 @@
 ---
-title: "Taba Shampoo"
+title: "Spices $$"
 date: 2019-10-17T11:22:16+06:00
 draft: false
 
 # meta description
-description : "For Silky Hair"
+description : "Spice up"
 
 # product Price
 price: "30.00$"

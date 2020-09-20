@@ -1,9 +1,8 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Best Beauty Cream For Your Skin"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed dia"
+  title : "The Brand Subandhu"
+  content : "Its like the Papads made by Dadi"
   image : "images/banner.png"
   # button
   button:
@@ -19,16 +18,18 @@ banner:
 about:
   enable : true
   title : "About Our Product"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-          clita kasd gubergren,"
+  content : "Papad is a thin, crisp disc-shaped Indian food typically based on a seasoned dough made from urad flour, fried or cooked with dry heat and are typically served as an accompaniment to a meal in India.
+             Apart from the traditional Indian Urad and Moong Papad , we specialize in papads of
+             Rice ,Maize , corn and potato.
+             Our papads are such that it can be eaten anytime as meal accompaniments, supper snacks .
+"
   image : "images/about.png"
 
 
 ###################### Call to action ########################
 cta:
   enable : true
-  title : "Buy one Get One Free Taba Cream"
+  title : "Buy one Get One Free Papad"
   content : "Available for limited time only. Grab one while you still can!"
   image : "images/cta.png"
   overlayImage : "images/cta-overlay.png"
@@ -71,18 +72,18 @@ advantage:
   image : "images/advantage.png"
   advantageList:
     # advantage list loop
-    - listItem : "Extremely lightweight"
-    - listItem : "Excellent breathability"
-    - listItem : "Can increase Cell activation"
-    - listItem : "Glowing Skin In 7 Days"
-    - listItem : "Increasing Glow Of Face"
-    - listItem : "More Beautiful Face Skin"
+    - listItem : "Lightweight"
+    - listItem : "Excellent Quality"
+    - listItem : "Can increase Appetite"
+    - listItem : "Organic"
+    - listItem : "Freshly Made"
+    - listItem : "Best Yummmm in town"
 
 
 ######################## Promo Video ##########################
 video:
   enable : true
-  title : "How To Use This Product?"
+  title : "How To Order This Product?"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
           dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et."
   videoThumb : "images/video-thumb.jpg"
@@ -102,9 +103,9 @@ testimonial:
   title : "What People Are Saying <br> About Our Product"
   testimonialItem:
     # testimonial item loop
-    - name : "Angelo Perara"
+    - name : "Dean Jain"
       image : "images/clients/client-1.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
+      designation : "Tech Partner"
       content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
       rating : "five" # rating star, one to five
       

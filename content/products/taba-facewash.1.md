@@ -1,10 +1,10 @@
 ---
-title: "Taba Facewash"
+title: "Papad 3"
 date: 2019-10-17T11:22:16+06:00
 draft: false
 
 # meta description
-description : "For Glowing Skin"
+description : "Papad 3"
 
 # product Price
 price: "40.00$"
