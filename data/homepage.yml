@@ -117,7 +117,7 @@ testimonial:
       rating : "three" # rating star, one to five
       
     # testimonial item loop
-    - name : "john Doe"
+    - name : "Dean Jain"
       image : "images/clients/client-3.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
       content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
