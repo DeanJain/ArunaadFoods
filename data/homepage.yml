@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "The Brand Subandhu"
-  content : "Its like the Papads made by Dadi"
+  content : "Its like the Homemade Papad made by our own Dadi / Naani"
   image : "images/banner.png"
   # button
   button:

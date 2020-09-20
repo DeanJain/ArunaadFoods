@@ -5,7 +5,7 @@ draft: false
 description : "this is a meta description"
 ---
 
-# Arunaad Foods LLC
+# Arunaad Foods LLP
 
 
 #### Arunaad foods International LLP is a multi-commodity merchant export company specializing in a variety of products and value added services. Working in the domestic market Arunaad foods international has grown leaps and bounds and works with multi-nationals in India.

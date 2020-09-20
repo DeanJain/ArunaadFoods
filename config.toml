@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://arunaad.in"
 languageCode = "en-us"
-title = "Hargo | Hugo Ecommerce Site"
+title = "Arunaad | Ecommerce Site"
 theme = "hargo"
 summaryLength = "20"
 paginate = 10
@@ -88,17 +88,17 @@ description = "This is meta description"
 author = "Themefisher"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-mapLatitude = "51.5223477"
-mapLongitude = "-0.1622023"
+mapLatitude = "22.694105"
+mapLongitude = "75.8457843"
 mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # Contact Information
 mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+email = "ashwani.kawdiya@arunaad.in"
+location = "Indore, India"
 # copyright
-copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+copyright = "| Copyright &copy; 2020 [ARUNAAD](https://arunaad.in) All Rights Reserved |"
 
   # Preloader
   [params.preloader]
