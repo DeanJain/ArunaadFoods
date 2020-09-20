@@ -84,8 +84,8 @@ disqusShortname = ""
 logo = "images/logo.png"
 home = "Home"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Arunaad Foods LLP"
+author = "Dean Jain"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 mapLatitude = "22.694105"
@@ -98,7 +98,7 @@ mobile = "0124857985320"
 email = "ashwani.kawdiya@arunaad.in"
 location = "Indore, India"
 # copyright
-copyright = "| Copyright &copy; 2020 [ARUNAAD](https://arunaad.in) All Rights Reserved |"
+copyright = "| Copyright &copy; 2020 [ARUNAAD Foods LLP](https://arunaad.in) All Rights Reserved |"
 
   # Preloader
   [params.preloader]
