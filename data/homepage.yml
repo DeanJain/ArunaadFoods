@@ -39,7 +39,7 @@ cta:
 
 ######################## raw material #######################
 material:
-  enable : false
+  enable : true
   title : "Ingredients Of Our Products"
   subtitle : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
           dol."
@@ -91,7 +91,7 @@ video:
 
 ######################## Products #############################
 products:
-  enable : false
+  enable : true
   title : "Products List"
   # product item comes from "content/products"
 
@@ -128,3 +128,10 @@ testimonial:
       designation : "CEO, Meera Infra"
       content : "oyee chak de fatteee "
       rating : "four" # rating star, one to five
+
+    # testimonial item loop
+    - name : "Prasad Londhe"
+      image : "images/clients/client-552.jpg" # size 100px*100px
+      designation : "VP, Frozen Foods"
+      content : "great product line"
+      rating : "five" # rating star, one to five
