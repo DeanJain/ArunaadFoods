@@ -1,7 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44687c5c-5d6f-49d9-abbd-1aecae3c3a01" name="Default Changelist" comment="" />
+    <list default="true" id="44687c5c-5d6f-49d9-abbd-1aecae3c3a01" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/themes/hargo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hargo/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/config.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/content/blog/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/content/blog/post-1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/content/blog/post-2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/content/contact/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/content/faq/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/content/products/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/content/products/taba-cream.1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/content/products/taba-cream.2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/content/products/taba-cream.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/content/products/taba-facewash.1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/content/products/taba-facewash.2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/content/products/taba-facewash.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/content/products/taba-shampoo.1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/content/products/taba-shampoo.2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/content/products/taba-shampoo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/content/terms-conditions/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/data/contact.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/data/faq.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/data/homepage.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/resources/_gen/assets/scss/scss/style.scss_48b060fe05b0a273d182ef83c0605941.content" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/resources/_gen/assets/scss/scss/style.scss_48b060fe05b0a273d182ef83c0605941.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/resources/_gen/assets/scss/scss/style.scss_b95b077eb505d5c0aff8055eaced30ad.content" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/resources/_gen/assets/scss/scss/style.scss_b95b077eb505d5c0aff8055eaced30ad.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/static/images/about.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/static/images/advantage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/static/images/banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/static/images/blog/post-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/static/images/blog/post-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/static/images/blog/post-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/static/images/blog/post-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/static/images/clients/client-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/static/images/clients/client-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/static/images/clients/client-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/static/images/cta-overlay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/static/images/cta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/static/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/static/images/marker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/static/images/material/material-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/static/images/material/material-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/static/images/material/material-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/static/images/material/material-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/static/images/products/product-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/static/images/products/product-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/static/images/products/product-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/static/images/products/product-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/static/images/products/product-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/static/images/products/product-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/exampleSite/static/images/video-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hargo/layouts/faq/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hargo/layouts/about/list.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,35 +61,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.toml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1379">
-              <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/theme.toml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/netlify.toml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -129,6 +153,32 @@
               <item name="ArunaadFoods" type="b2602c69:ProjectViewProjectNode" />
               <item name="ArunaadFoods" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ArunaadFoods" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArunaadFoods" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ArunaadFoods" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArunaadFoods" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="hargo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ArunaadFoods" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArunaadFoods" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="hargo" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ArunaadFoods" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArunaadFoods" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="hargo" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="about" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -231,7 +281,8 @@
     <MESSAGE value="adding netlify" />
     <MESSAGE value="adding about" />
     <MESSAGE value="git modules remove" />
-    <option name="LAST_COMMIT_MESSAGE" value="git modules remove" />
+    <MESSAGE value="adding theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding theme" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/content/about/_index.md">
@@ -372,6 +423,20 @@
     <entry file="file://$PROJECT_DIR$/themes/hargo/theme.toml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hargo/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config.toml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1379">
@@ -386,17 +451,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hargo/.gitignore">
+    <entry file="file://$PROJECT_DIR$/themes/hargo/layouts/about/list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/theme.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        <state relative-caret-position="330">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
         </state>
       </provider>
     </entry>

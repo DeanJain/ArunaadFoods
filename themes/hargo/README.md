@@ -18,9 +18,9 @@ Hargo is a fully responsive and stunning Single Product E-Commerce Template firs
 
 ## Demo
 
-| Products  | FAQ  | Blog  | Contact  |
+| Products  | about  | Blog  | Contact  |
 |---|---|---|---|
-| ![products](https://user-images.githubusercontent.com/37659754/67154818-18165600-f324-11e9-8ac5-980c1ad1a151.png) | ![faq](https://user-images.githubusercontent.com/37659754/67154832-35e3bb00-f324-11e9-9b8f-3cc8d7fe3f97.png) | ![blog](https://user-images.githubusercontent.com/37659754/67154837-485df480-f324-11e9-8792-128fc4b14632.png) | ![contact](https://user-images.githubusercontent.com/37659754/67154841-5ad82e00-f324-11e9-8c00-5b6f1127c643.png) |
+| ![products](https://user-images.githubusercontent.com/37659754/67154818-18165600-f324-11e9-8ac5-980c1ad1a151.png) | ![about](https://user-images.githubusercontent.com/37659754/67154832-35e3bb00-f324-11e9-9b8f-3cc8d7fe3f97.png) | ![blog](https://user-images.githubusercontent.com/37659754/67154837-485df480-f324-11e9-8792-128fc4b14632.png) | ![contact](https://user-images.githubusercontent.com/37659754/67154841-5ad82e00-f324-11e9-8c00-5b6f1127c643.png) |
 
 [Live Demo](http://demo.themefisher.com/hargo-hugo/)
 
@@ -42,7 +42,7 @@ $ git clone git@github.com:themefisher/hargo.git
 - Google Analytics
 - SEO Friendly
 - E-commerce Template
-- Contact Page , Faq Page
+- Contact Page , about Page
 - Responsive Ready
 - Snipcart Added
 

@@ -21,11 +21,11 @@
           <button type="submit" value="send" class="btn btn-block btn-outline-primary rounded">Send Now</button>
         </form>
       </div></div>
-      {{ with site.Data.faq}}
+      {{ with site.Data.about}}
       <div class="col-lg-7 offset-lg-1">
         <div id="accordion" class="mt-5">
           {{ $.Scratch.Set "counter" 0 }}
-          {{ range .faqItem }}
+          {{ range .aboutItem }}
           {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
           {{ "<!-- accordion item -->" | safeHTML }}
           <div class="card mb-1 rounded-0 border-0">
