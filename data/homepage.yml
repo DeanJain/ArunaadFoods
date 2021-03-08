@@ -1,7 +1,7 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "The Brand Subandhu"
+  title : "The Brand UnWE (You and We)"
   content : "Its like the Homemade Papad made by our own Dadi / Naani"
   image : "images/banner.png"
   # button
@@ -18,11 +18,13 @@ banner:
 about:
   enable : true
   title : "About Our Product"
-  content : "Papad is a thin, crisp disc-shaped Indian food typically based on a seasoned dough made from urad flour, fried or cooked with dry heat and are typically served as an accompaniment to a meal in India.
-             Apart from the traditional Indian Urad and Moong Papad , we specialize in papads of
-             Rice ,Maize , corn and potato.
-             Our papads are such that it can be eaten anytime as meal accompaniments, supper snacks .
-"
+  content : "COIN PAPAD:
+             Papad is a thin, crisp disc-shaped Indian food typically based on a seasoned dough
+             made from urad flour, fried or cooked with dry heat and are typically served as an
+             accompaniment to a meal in India. Apart from the traditional Indian Urad and Moong
+             Papad , we specialize in papads of Rice ,Maize , corn and potato. Our papads (size of
+             upto 2.5 inches) are such that it can be eaten anytime as meal accompaniments, supper
+             snacks"
   image : "images/about.png"
 
 
@@ -41,28 +43,27 @@ cta:
 material:
   enable : true
   title : "Ingredients Of Our Products"
-  subtitle : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dol."
+  subtitle : ""
   materialItem:
     # material item loop
     - title : "Matcha Seeds"
       image : "images/material/material-1.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : ""
       
     # material item loop
     - title : "Aloe Vera"
       image : "images/material/material-2.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : ""
       
     # material item loop
     - title : "Turmeric"
       image : "images/material/material-3.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : ""
       
     # material item loop
     - title : "Tulshi leaf"
       image : "images/material/material-4.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : ""
 
 ########################### Advantage #########################
 advantage:
@@ -119,7 +120,7 @@ testimonial:
     - name : "Meera Kawdiya"
       image : "images/clients/client-344.jpg" # size 100px*100px
       designation : "Principal Holy Public School"
-      content : "Twinkle twinkle little star, how much i love Subandhu papad :) "
+      content : "Twinkle twinkle little star, how much i love UnWE papad :) "
       rating : "five" # rating star, one to five
       
     # testimonial item loop

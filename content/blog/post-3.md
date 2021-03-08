@@ -1,5 +1,5 @@
 ---
-title: "Masala Papad Receipe"
+title: "Cheesy masala papad Receipe"
 date: 2019-10-17T11:22:16+06:00
 draft: false
 description : "this is a meta description"
@@ -9,5 +9,5 @@ author: "Dean Jain"
 
 Take 100 gms of your favourite UnWe coin papad and fry/bake it as per your liking.
 Put some chopped veggies like onion,tomato,cucumber and raw mango ,along with some
-lemon juice on it.
+lemon juice on it. Grate some cheese over it ,
 In the end sprinkle some UnWe papad masala and enjoy the snack.

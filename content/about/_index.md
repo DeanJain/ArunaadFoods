@@ -8,17 +8,18 @@ description : "this is a meta description"
 # Arunaad Foods LLP
 
 
-#### Arunaad foods International LLP is a multi-commodity merchant export company specializing in a variety of products and value added services. Working in the domestic market Arunaad foods international has grown leaps and bounds and works with multi-nationals in India.
+#### UnWE (You and We), the brand is owned by Arunaad Foods International LLP, India. Since last 8 years we are providing our products to Unorganised foods and snacks market across india.receiving the feed back of our products its now that we think is the time to launch ourselves on the big stage and hence we started our automatic plant for the manufacturing of tasty and popular Indian snack Papad in the year 2021, under the brand UnWE, symbolising the relationship of our company with the customers. Confident of our quality and the purity of ingredients used in our products , we are confident to establish ourselves in the premium segment who look forward to eat the best quality of food stuff.
 
 ------------
 
-##### We specialize in dealing of the following products:
-- Food and Food Products
-- Sugar Industry Items
-- Tea Industry Items
-- Spices
-- Organic DOC and Soyabean Cakes
-- Bakery and Confectionary Items
+##### We specialize in dealing of the following products- Rice jeera papad
+- Rice jeera papad
+- Ragi papad
+- Potato papad
+- Red chilli garlic Rice papad
+- Mathiya Papad
+- Makka papad
+- Choco rice papad
 
 ------------
 
