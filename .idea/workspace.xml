@@ -2,106 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44687c5c-5d6f-49d9-abbd-1aecae3c3a01" name="Default Changelist" comment="adding more products">
-      <change afterPath="$PROJECT_DIR$/content/products/Makka.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/products/Potato.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/products/RagiSesame.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/products/RiceChilliGarlic.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/products/RiceJeera.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/about/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/blog/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/blog/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/blog/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/blog/post-1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/blog/post-2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/blog/post-3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/categories/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/contact/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/contact/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/about.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/advantage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/blog/post-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/blog/post-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/blog/post-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/blog/post-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/clients/client-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/clients/client-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/clients/client-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/cta-overlay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/cta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/marker.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/material/material-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/material/material-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/material/material-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/material/material-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/products/product-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/products/product-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/products/product-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/products/product-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/products/product-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/products/product-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/products/product-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/products/product-8.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/products/product-9.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/video-thumb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/script.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/bootstrap/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/bootstrap/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/google-map/gmap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/jQuery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/slick/slick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/slick/slick.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/themify-icons/fonts/themify.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/themify-icons/fonts/themify.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/themify-icons/fonts/themify.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/themify-icons/fonts/themify.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/themify-icons/themify-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/products/cake/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/products/cereals/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/products/cookies/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/products/corn-papad/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/products/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/products/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/products/jeera-papad/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/products/jowar-papad/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/products/mirchi/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/products/potato-papad/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/products/sabudana-papad/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/products/spices/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/style.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tags/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/terms-conditions/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/terms-conditions/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/products/MakkaPapad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/products/Potato.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/products/RagiSesame.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/products/RiceChilliGarlic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/products/RiceJeera.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/products/cake.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/products/cereals.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/products/cookies.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/products/corn-papad.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/products/jeera-papad.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/products/jowar-papad.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/products/mirchi.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/products/potato-papad.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/products/sabudana-papad.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/products/spices.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/homepage.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/homepage.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/style.scss_b95b077eb505d5c0aff8055eaced30ad.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/style.scss_b95b077eb505d5c0aff8055eaced30ad.content" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/about.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/about.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/banner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -536,7 +437,6 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -617,6 +517,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

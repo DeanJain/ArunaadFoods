@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://arunaad.in"
+baseURL = "https://unwe.co.in"
 languageCode = "en-us"
 title = "Arunaad | Ecommerce Site"
 theme = "hargo"
@@ -95,10 +95,10 @@ mapMarker = "images/marker.png"
 googleAnalitycsID = "" # Your ID
 # Contact Information
 mobile = "0124857985320"
-email = "ashwani.kawdiya@arunaad.in"
+email = "ashwani.kawdiya@unwe.co.in"
 location = "Indore, India"
 # copyright
-copyright = "| Copyright &copy; 2020 [ARUNAAD Foods LLP](https://arunaad.in) All Rights Reserved |"
+copyright = "| Copyright &copy; 2020 [ARUNAAD Foods LLP](https://unwe.co.in) All Rights Reserved |"
 
   # Preloader
   [params.preloader]
