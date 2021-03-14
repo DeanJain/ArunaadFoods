@@ -38,8 +38,8 @@ disqusShortname = ""
   weight = 1
   
   [[menu.main]]
-  name = "Blog"
-  URL = "blog"
+  name = "Recipe"
+  URL = "receipe"
   weight = 2
   
   [[menu.main]]
@@ -59,8 +59,8 @@ disqusShortname = ""
   weight = 1
   
   [[menu.footer]]
-  name = "Blog"
-  URL = "blog"
+  name = "Receipe"
+  URL = "receipe"
   weight = 2
   
   [[menu.footer]]
@@ -68,10 +68,10 @@ disqusShortname = ""
   URL = "about"
   weight = 3
   
-  [[menu.footer]]
-  name = "Terms & Conditions"
-  URL = "terms-conditions"
-  weight = 4
+#   [[menu.footer]]
+#   name = "Terms & Conditions"
+#   URL = "terms-conditions"
+#   weight = 4
   
   [[menu.footer]]
   name = "Contact"
@@ -94,11 +94,11 @@ mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # Contact Information
-mobile = "0124857985320"
-email = "ashwani.kawdiya@unwe.co.in"
+# mobile = ""
+email = "enquiries@unwe.co.in, customersupport@unwe.co.in"
 location = "Indore, India"
 # copyright
-copyright = "| Copyright &copy; 2020 [ARUNAAD Foods LLP](https://unwe.co.in) All Rights Reserved |"
+copyright = "| Copyright &copy; 2021 [ARUNAAD Foods LLP](https://unwe.co.in) All Rights Reserved |"
 
   # Preloader
   [params.preloader]

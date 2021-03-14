@@ -29,19 +29,19 @@ about:
 
 
 ###################### Call to action ########################
-cta:
-  enable : true
-  title : "Buy one Get One Free Papad"
-  content : "Available for limited time only. Grab one while you still can!"
-  image : "images/cta.png"
-  overlayImage : "images/cta-overlay.png"
-  button:
-    label : "All Products"
-    link : "products"
+#cta:
+#  enable : false
+#  title : "Buy one Get One Free Papad"
+#  content : "Available for limited time only. Grab one while you still can!"
+#  image : "images/cta.png"
+#  overlayImage : "images/cta-overlay.png"
+#  button:
+#    label : "All Products"
+#    link : "products"
 
 ######################## raw material #######################
 material:
-  enable : true
+  enable : false
   title : "Ingredients Of Our Products"
   subtitle : ""
   materialItem:
@@ -83,7 +83,7 @@ advantage:
 
 ######################## Promo Video ##########################
 video:
-  enable : true
+  enable : false
   title : "How To Order This Product?"
   content : "Please email us or fill the contact form, or even feel free to cal us at our phone number"
   videoThumb : "images/video-thumb.jpg"

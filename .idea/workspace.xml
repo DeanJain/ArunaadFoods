@@ -1,8 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="44687c5c-5d6f-49d9-abbd-1aecae3c3a01" name="Default Changelist" comment="adding more products">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/about/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/receipe/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/post-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/receipe/post-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/post-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/receipe/post-2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/post-3.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/receipe/post-3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/products/Makka.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/products/Makka.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/products/Potato.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/products/Potato.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/products/RagiSesame.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/products/RagiSesame.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/products/RiceChilliGarlic.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/products/RiceChilliGarlic.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/products/RiceJeera.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/products/RiceJeera.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/terms-conditions/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/contact.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/contact.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/homepage.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/homepage.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/blog/post-3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/post-3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/contact/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/products/cake/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/products/cereals/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/products/cookies/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/products/corn-papad/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/products/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/products/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/products/jeera-papad/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/products/jowar-papad/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/products/mirchi/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/products/potato-papad/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/products/sabudana-papad/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/products/spices/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/terms-conditions/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/terms-conditions/index.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

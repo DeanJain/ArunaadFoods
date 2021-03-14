@@ -12,8 +12,8 @@ description : "this is a meta description"
 
 ------------
 
-##### We specialize in dealing of the following products- Rice jeera papad
-- Rice jeera papad
+##### We specialize in dealing of the following products
+- Rice Jeera papad
 - Ragi papad
 - Potato papad
 - Red chilli garlic Rice papad
