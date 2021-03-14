@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Arunaad | Ecommerce Site</title>
+    <link>https://arunaad.in/blog/</link>
+    <description>Recent content in Blog on Arunaad | Ecommerce Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="https://arunaad.in/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cheesy masala papad Receipe</title>
+      <link>https://arunaad.in/blog/post-3/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://arunaad.in/blog/post-3/</guid>
+      <description>Take 100 gms of your favourite UnWe coin papad and fry/bake it as per your liking. Put some chopped veggies like onion,tomato,cucumber and raw mango ,along with some lemon juice on it.</description>
+    </item>
+    
+    <item>
+      <title>Khakra Papad Receipe</title>
+      <link>https://arunaad.in/blog/post-1/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://arunaad.in/blog/post-1/</guid>
+      <description>Take UnWE coin papad either fry/baked one by one and apply pure ghee on them. Sprinkle some UnWE masala over it and enjoy the snack.</description>
+    </item>
+    
+    <item>
+      <title>Masala Papad Receipe</title>
+      <link>https://arunaad.in/blog/post-2/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://arunaad.in/blog/post-2/</guid>
+      <description>Take 100 gms of your favourite UnWe coin papad and fry/bake it as per your liking. Put some chopped veggies like onion,tomato,cucumber and raw mango ,along with some lemon juice on it.</description>
+    </item>
+    
+  </channel>
+</rss>
