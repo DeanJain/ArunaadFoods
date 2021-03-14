@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44687c5c-5d6f-49d9-abbd-1aecae3c3a01" name="Default Changelist" comment="upgrading site" />
+    <list default="true" id="44687c5c-5d6f-49d9-abbd-1aecae3c3a01" name="Default Changelist" comment="remove cart" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -537,7 +537,8 @@
     <MESSAGE value="adding theme" />
     <MESSAGE value="adding more products" />
     <MESSAGE value="upgrading site" />
-    <option name="LAST_COMMIT_MESSAGE" value="upgrading site" />
+    <MESSAGE value="remove cart" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove cart" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/static/images/blog/post-4.jpg">
