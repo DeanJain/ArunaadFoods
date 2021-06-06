@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "The Brand UnWE (You and We)"
-  content : "Its like the Homemade Papad made by our own Dadi / Naani"
+  content : "Its like the Homemade Papad made by our own Grandma, **Healthy bhi...Tasty bhi...**"
   image : "images/banner.png"
   # button
   button:
@@ -113,7 +113,7 @@ testimonial:
     - name : "Meera "
 #      image : "images/clients/client-344.jpg" # size 100px*100px
       designation : "Indore"
-      content : "I live yummy UnWE papad :) "
+      content : "I LOVE yummy UnWE papad :) "
       rating : "five" # rating star, one to five
       
     # testimonial item loop
