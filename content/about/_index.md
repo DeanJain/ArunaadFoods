@@ -13,7 +13,6 @@ description : "this is a meta description"
 ------------
 
 ##### We specialize in dealing of the following products
-- Rice Jeera papad
 - Ragi papad
 - Potato papad
 - Red chilli garlic Rice papad
@@ -23,7 +22,7 @@ description : "this is a meta description"
 
 ------------
 
-##### What sets the company apart is that, we provide a price advantage, personalized service and also encourage orders of all sizes - whether your order is for $1 or for $1,000,000, you will surely get a reply from us.
+##### What sets the company apart is that, we provide a price advantage, personalized service and also encourage orders of all sizes - whether your order is for Rs 1 or for Rs 1,000,000, you will surely get a reply from us.
 
 ------------
 
