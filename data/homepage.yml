@@ -70,7 +70,7 @@ advantage:
   enable : true
   title : "Advantages Of Using <br> Our Product"
   subtitle : ""
-  image : "images/advantage.png"
+  image : "images/advantage.jpg"
   advantageList:
     # advantage list loop
     - listItem : "Lightweight"
@@ -85,9 +85,9 @@ advantage:
 video:
   enable : false
   title : "How To Order This Product?"
-  content : "Please email us or fill the contact form, or even feel free to cal us at our phone number"
+  content : "Please email us or fill the contact form, or even feel free to cal us at our phone number +91 9329241003"
   videoThumb : "images/video-thumb.jpg"
-  videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
+  videoURL : "https://www.youtube.com/"
 
 
 ######################## Products #############################

@@ -94,7 +94,7 @@ mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # Contact Information
-# mobile = ""
+mobile = "+91 9329241003"
 email = "enquiries@unwe.co.in, customersupport@unwe.co.in"
 location = "Indore, India"
 # copyright
@@ -135,4 +135,4 @@ copyright = "| Copyright &copy; 2021 [ARUNAAD Foods LLP](https://unwe.co.in) All
 
   # Contact Form
   [params.contact]
-  formAction = "#" # contact form works with formspree.io
+  formAction = "https://formspree.io/f/mleawdvg" # contact form works with formspree.io
