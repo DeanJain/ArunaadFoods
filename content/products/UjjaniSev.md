@@ -1,5 +1,5 @@
 ---
-title: "Ujjani Sev"
+title: "Ujjaini Sev"
 date: 2024-12-17T11:22:16+06:00
 draft: false
 
@@ -22,6 +22,6 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/allinonemixture.png"
+  - image: "images/products/UjjainiSev.png"
 
 ---

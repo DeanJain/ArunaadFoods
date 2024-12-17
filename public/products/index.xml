@@ -9,14 +9,56 @@
     <lastBuildDate>Tue, 17 Dec 2024 11:22:16 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Heeng Mixture</title>
-      <link>http://localhost:1313/products/hingmixture/</link>
+      <title>All In One Mixture</title>
+      <link>http://localhost:1313/products/allinonemixture/</link>
       <pubDate>Tue, 17 Dec 2024 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/products/hingmixture/</guid>
+      <guid>http://localhost:1313/products/allinonemixture/</guid>
       <description></description>
     </item>
     <item>
-      <title>Ujjani Sev</title>
+      <title>Heeng Mixture</title>
+      <link>http://localhost:1313/products/heengmixture/</link>
+      <pubDate>Tue, 17 Dec 2024 11:22:16 +0600</pubDate>
+      <guid>http://localhost:1313/products/heengmixture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Khatta Meetha Mixture</title>
+      <link>http://localhost:1313/products/khattameethamixture/</link>
+      <pubDate>Tue, 17 Dec 2024 11:22:16 +0600</pubDate>
+      <guid>http://localhost:1313/products/khattameethamixture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Many More Yummy Products Coming Soon</title>
+      <link>http://localhost:1313/products/news/</link>
+      <pubDate>Tue, 17 Dec 2024 11:22:16 +0600</pubDate>
+      <guid>http://localhost:1313/products/news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Masala Tasty</title>
+      <link>http://localhost:1313/products/masalatasty/</link>
+      <pubDate>Tue, 17 Dec 2024 11:22:16 +0600</pubDate>
+      <guid>http://localhost:1313/products/masalatasty/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ratlami Sev</title>
+      <link>http://localhost:1313/products/ratlamisev/</link>
+      <pubDate>Tue, 17 Dec 2024 11:22:16 +0600</pubDate>
+      <guid>http://localhost:1313/products/ratlamisev/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RoyalCorn Mixture</title>
+      <link>http://localhost:1313/products/royalcornmixture/</link>
+      <pubDate>Tue, 17 Dec 2024 11:22:16 +0600</pubDate>
+      <guid>http://localhost:1313/products/royalcornmixture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ujjaini Sev</title>
       <link>http://localhost:1313/products/ujjanisev/</link>
       <pubDate>Tue, 17 Dec 2024 11:22:16 +0600</pubDate>
       <guid>http://localhost:1313/products/ujjanisev/</guid>

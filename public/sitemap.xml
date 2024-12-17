@@ -2,10 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <loc>http://localhost:1313/products/allinonemixture/</loc>
+    <lastmod>2024-12-17T11:22:16+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2024-12-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/heengmixture/</loc>
+    <lastmod>2024-12-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/khattameethamixture/</loc>
+    <lastmod>2024-12-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/news/</loc>
+    <lastmod>2024-12-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/masalatasty/</loc>
+    <lastmod>2024-12-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/ratlamisev/</loc>
+    <lastmod>2024-12-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/royalcornmixture/</loc>
+    <lastmod>2024-12-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/ujjanisev/</loc>
+    <lastmod>2024-12-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/products/chana/</loc>
