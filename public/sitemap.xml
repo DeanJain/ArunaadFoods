@@ -2,65 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://unwe.co.in/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://unwe.co.in/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://unwe.co.in/products/cookies/</loc>
+    <loc>http://localhost:1313/products/chana/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://unwe.co.in/blog/</loc>
+    <loc>http://localhost:1313/products/chanalehsun/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://unwe.co.in/products/cake/</loc>
+    <loc>http://localhost:1313/receipe/post-3/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://unwe.co.in/blog/post-3/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://unwe.co.in/contact/</loc>
+    <loc>http://localhost:1313/receipe/post-1/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://unwe.co.in/blog/post-1/</loc>
+    <loc>http://localhost:1313/products/makka/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://unwe.co.in/blog/post-2/</loc>
+    <loc>http://localhost:1313/receipe/post-2/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://unwe.co.in/products/mirchi/</loc>
+    <loc>http://localhost:1313/products/moong/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://unwe.co.in/products/cereals/</loc>
+    <loc>http://localhost:1313/products/potato/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://unwe.co.in/products/corn-papad/</loc>
+    <loc>http://localhost:1313/products/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://unwe.co.in/products/jeera-papad/</loc>
+    <loc>http://localhost:1313/products/ragisesame/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://unwe.co.in/products/jowar-papad/</loc>
+    <loc>http://localhost:1313/receipe/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://unwe.co.in/products/potato-papad/</loc>
+    <loc>http://localhost:1313/products/ricechilly/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://unwe.co.in/products/sabudana-papad/</loc>
+    <loc>http://localhost:1313/products/ricejeera/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://unwe.co.in/products/</loc>
+    <loc>http://localhost:1313/products/urad/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>https://unwe.co.in/products/spices/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://unwe.co.in/terms-conditions/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url><url>
-    <loc>https://unwe.co.in/categories/</loc>
-  </url><url>
-    <loc>https://unwe.co.in/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

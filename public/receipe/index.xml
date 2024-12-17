@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Receipe on Arunaad | Ecommerce Site</title>
+    <link>http://localhost:1313/receipe/</link>
+    <description>Recent content in Receipe on Arunaad | Ecommerce Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/receipe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cheesy masala papad Receipe</title>
+      <link>http://localhost:1313/receipe/post-3/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <guid>http://localhost:1313/receipe/post-3/</guid>
+      <description>&lt;p&gt;Take 100 gms of your favourite UnWe coin papad and fry/bake it as per your liking.&#xA;Put some chopped veggies like onion,tomato,cucumber and raw mango ,along with some&#xA;lemon juice on it. Grate some cheese over it and enjoy the snack.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Khakra Papad Receipe</title>
+      <link>http://localhost:1313/receipe/post-1/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <guid>http://localhost:1313/receipe/post-1/</guid>
+      <description>&lt;p&gt;Take UnWE coin papad either fry/baked one by one and apply pure ghee on them.&#xA;Sprinkle some jiraman masala over it and enjoy the snack.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Masala Papad Receipe</title>
+      <link>http://localhost:1313/receipe/post-2/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <guid>http://localhost:1313/receipe/post-2/</guid>
+      <description>&lt;p&gt;Take 100 gms of your favourite UnWe coin papad and fry/bake it as per your liking.&#xA;Put some chopped veggies like onion, tomato, cucumber and raw mango, along with some&#xA;lemon juice on it. In the end sprinkle some jiraman masala and enjoy the snack.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
